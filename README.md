@@ -13,3 +13,6 @@ a simple exercise
 2.[Java Programming](http://introcs.cs.princeton.edu/java/10elements/)<br>
 3.[设计模式](https://sourcemaking.com/design_patterns)<br>
 4.[Java 编程风格](http://www.hawstein.com/posts/google-java-style.html)<br>
+
+### 其他
+1.[markdown语法 简书](http://www.jianshu.com/p/b6f7e21ca498)
