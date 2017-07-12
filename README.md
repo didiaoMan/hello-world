@@ -14,6 +14,7 @@ a simple exercise
 3.[设计模式](https://sourcemaking.com/design_patterns)<br>
 4.[Java 编程风格](http://www.hawstein.com/posts/google-java-style.html)<br>
 5.[Java 注解](http://www.oschina.net/question/12_15295)<br>
+6.[IBM developerWorks](https://www.ibm.com/developerworks/cn/java/)
 
 ### 其他
 1.[markdown语法 简书](http://www.jianshu.com/p/b6f7e21ca498)
