@@ -16,6 +16,30 @@ a simple exercise
 5.[Java 注解](http://www.oschina.net/question/12_15295)<br>
 6.[IBM developerWorks](https://www.ibm.com/developerworks/cn/java/)
 
+### 机器学习
+1.[神经网络架构](http://www.asimovinstitute.org/neural-network-zoo/)
+2.[Microsoft Azure Algorithm Flowchart](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
+3.[SAS Algorithm Flowchart](http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
+4.[Algorithm Summary](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+5.[Algorithm Pro/Con](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
+
+### Python
+1.[ML算法](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
+2.[Python基础](http://datasciencefree.com/python.pdf)
+3.[Data Science](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.0x1rxEA)
+4.[Numpy](https://www.dataquest.io/blog/numpy-cheat-sheet/)
+5.[Numpy Cheat Sheet](http://datasciencefree.com/numpy.pdf)
+6.[Numpy](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE)
+7.[Numpy](https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb)
+
+### 数学
+1.[概率论](http://www.wzchen.com/s/probability_cheatsheet.pdf)
+2.[线性代数](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
+3.[统计学](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
+4.[微积分](http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N)
+
+
+
 ### 其他
 1.[markdown语法 简书](http://www.jianshu.com/p/b6f7e21ca498)
 <br><br><br><br><br><br><br><br><br><br>
