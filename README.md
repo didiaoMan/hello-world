@@ -38,6 +38,9 @@ a simple exercise
 3.[统计学](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)<br>
 4.[微积分](http://tutorial.math.lamar.edu/getfile.aspx?file=B,41,N)<br>
 
+### Git
+1.[Pro Git(中文版)](http://git.oschina.net/progit/)<br>
+
 
 
 ### 其他
