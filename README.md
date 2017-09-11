@@ -31,6 +31,7 @@ a simple exercise
 5.[Numpy Cheat Sheet](http://datasciencefree.com/numpy.pdf)<br>
 6.[Numpy](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE)<br>
 7.[Numpy](https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb)<br>
+8.[invent with python](http://inventwithpython.com/)
 
 ### 数学
 1.[概率论](http://www.wzchen.com/s/probability_cheatsheet.pdf)<br>
@@ -45,5 +46,6 @@ a simple exercise
 
 ### 其他
 1.[markdown语法 简书](http://www.jianshu.com/p/b6f7e21ca498)
+2.[各类资源合集](http://top.jobbole.com/15689/)
 <br><br><br><br><br><br><br><br><br><br>
 evil one start!!
