@@ -15,6 +15,7 @@ a simple exercise
 4.[Java 编程风格](http://www.hawstein.com/posts/google-java-style.html)<br>
 5.[Java 注解](http://www.oschina.net/question/12_15295)<br>
 6.[IBM developerWorks](https://www.ibm.com/developerworks/cn/java/)<br>
+7.[关于try catch finally 与return语句](http://blog.csdn.net/ns_code/article/details/17485221)<br>
 
 ### 机器学习
 1.[神经网络架构](http://www.asimovinstitute.org/neural-network-zoo/)<br>
