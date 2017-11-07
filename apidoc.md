@@ -15,17 +15,22 @@
 请求方式：
 --------
 
-POST
+GET
 
-参数：
------
+返回数据中字段名与数据表中字段对应关系
+-----------------------------------
 
-**参数列表**
+数据字段 | 数据表中字段
+--------|------------
+userid  | no
+username | name
+password | password
+sex      | sex
+birthday | year month date
+birthplace| natives
+level    | flly_machine
 
-参数名    | 参数类型      | 必选        | 说明    
----------|---------------|------------|----------
-username |    string     |     是     |    用户名
-
+**注： 返回字段中`birthday`与数据表中的`year month date` 三个字段相关，需要将格式处理为`yyyy-MM-dd`比如`2014-03-01`**
 
 返回数据示例
 -----------
@@ -43,8 +48,7 @@ username |    string     |     是     |    用户名
             "sex": "男",
             "birthday": "1990-04-25",
             "birthplace": "北京",
-            "level": "直升机",
-            "pos": "机械师"
+            "level": "直升机"
         },
         {
             "userid": 1,
@@ -53,8 +57,7 @@ username |    string     |     是     |    用户名
             "sex": "男",
             "birthday": "1990-04-25",
             "birthplace": "北京",
-            "level": "直升机",
-            "pos": "机械师"
+            "level": "直升机"
         }
     ]
 }
@@ -80,6 +83,15 @@ username |    string     |     是     |    用户名
 
 用户头像
 =======
+
+参数：
+-----
+
+**参数列表**
+
+参数名    | 参数类型      | 必选        | 说明    
+---------|---------------|------------|----------
+username |    string     |     是     |    用户名
 
 指纹
 ===
