@@ -46,7 +46,8 @@ a simple exercise
 
 
 ### 其他
-1.[markdown语法 简书](http://www.jianshu.com/p/b6f7e21ca498)
-2.[各类资源合集](http://top.jobbole.com/15689/)
+1.[markdown语法 简书](http://www.jianshu.com/p/b6f7e21ca498)<br>
+2.[各类资源合集](http://top.jobbole.com/15689/)<br>
+3.[shell命令](https://tinylab.gitbooks.io/shellbook/zh/chapters/01-chapter1.html)<br>
 <br><br><br><br><br><br><br><br><br><br>
 evil one start!!
